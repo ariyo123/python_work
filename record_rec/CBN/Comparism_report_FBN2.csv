@@ -1,0 +1,2 @@
+BVN,first_name,Middle_name,Surname,DOB,is_BVN_correct_on_ICAD,is_first_name_correct_on_ICAD,is_Middle_name_correct_on_ICAD,is_Surname_correct_on_ICAD,is_DOB_correct_on_ICAD,BVN_ICAD,first_name_CAD,Middle_nameICAD,Surname_ICAD,DOB_ICAD,Account,Bank
+11111234563,BUSOLA,TAWA,OLA,2012-01-18,True,False,False,False,False,11111234563,ADE,BAYO,OS,2022-01-18,4558595433,214
